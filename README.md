@@ -22,10 +22,6 @@ Skills: PYTHON / HTML / CSS  /JS / PHP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Remy2072&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Remy2072)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Remy2072)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Remy2072)  
 
 ![Profile views](https://gpvc.arturio.dev/Remy2072)  
