@@ -44,7 +44,7 @@
 
 ### 📌Pinned Repositories
 
-<img  alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="300" height="300" align="right" />
+<img  alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="200" height="300" align="right" />
 
 <p align="left">
 <a href="https://github.com/Remy2072/Duurzaam-Huis">
