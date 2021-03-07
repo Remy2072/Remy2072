@@ -11,9 +11,6 @@
 [![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jfcceg1kskkzucac21zh500kl)
 [![Website](https://img.shields.io/badge/-Website-gray?logo=google&logoColor=white&style=for-the-badge)](https://30528.hosts1.ma-cloud.nl/portfolio/index.html)
 
-<!-- [![Discord](https://img.shields.io/badge/-Discord-7289da?logo=Discord&logoColor=white&style=for-the-badge)]()
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0072b1?logo=linkedin&logoColor=white&style=for-the-badge)]() -->
-
 ---
 
 ### 👨🏻‍💻 About Me
@@ -29,23 +26,21 @@
 
 ### 🛠 Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python )
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Python](https://img.shields.io/badge/-Python-2e343f?style=flat&logo=python )
+![HTML](https://img.shields.io/badge/-HTML-2e343f?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-2e343f?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-2e343f?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-2e343f?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-2e343f?style=flat&logo=github)&nbsp;\
+![Markdown](https://img.shields.io/badge/-Markdown-2e343f?style=flat&logo=markdown)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-2e343f?style=flat&logo=bootstrap&logoColor=563D7C)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2e343f?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-2e343f?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-2e343f?style=flat&logo=adobe-photoshop)&nbsp;
 
 ---
 
 ### 📌Pinned Repositories
-
-<img  alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width=550 height=400 align="right" />
 
 <p align="left">
 <a href="https://github.com/Remy2072/Duurzaam-Huis">
