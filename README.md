@@ -1,27 +1,76 @@
-### Hi there 👋, my name is Remy Duivesteijn
-#### Software Developer
-![Software Developer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkautukkundan%2FAwesome-Profile-README-templates&psig=AOvVaw0o-nmht-CJtQ1F4Ainw_MI&ust=1615043142194000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCID359e2me8CFQAAAAAdAAAAABAD)
+---
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-My name is Remy Duivesteijn and I'm a software developer. I'm from The Netherlands, living in Amsterdam and currently in college at Media College. You can find me on Instagram, or on Twitter.
+### 🏄 Follow me on
 
-Skills: PYTHON / HTML / CSS  /JS / PHP
+[![Github](https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/Remy2072)
+[![instagram](https://img.shields.io/badge/-Instagram-C13584?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/remy2072/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/RemyDuivesteijn)
+[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?logo=Youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UC9lt58lfem-Bjr287JID__g)
+[![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jfcceg1kskkzucac21zh500kl)
+[![Website](https://img.shields.io/badge/-Website-gray?logo=google&logoColor=white&style=for-the-badge)](https://30528.hosts1.ma-cloud.nl/portfolio/index.html)
 
-- 🔭 I’m currently working on https://github.com/Remy2072/Duurzaam-Huis 
-- 🌱 I’m currently learning PYTHON / HTML / CSS /JS / PHP 
-- 💬 Ask me about anything 
-- 📫 How to reach me: remyd03@icloud.com 
+<!-- [![Discord](https://img.shields.io/badge/-Discord-7289da?logo=Discord&logoColor=white&style=for-the-badge)]()
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0072b1?logo=linkedin&logoColor=white&style=for-the-badge)]() -->
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Remy2072)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Remy2072/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RemyDuivesteijn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Remy Duivesteijn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://30528.hosts1.ma-cloud.nl/portfolio/index.html)  
+### 👨🏻‍💻 About Me
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 💡 I like to explore new technologies and develop software / websites.
+- 🎓 I'm currently studying software development at Mediacollege Amsterdam.
+- 🌱 I’m currently learning to learn.
+- ✍️ In my free time, I like to play soccer, game with my friends and program.
+- 💬 Feel free to reach out to me about anything, Im happy to help out.
+- ✉️ You can shoot me an email at remyd03@icloud.com  I'll try to respond as soon as I can.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Remy2072)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remy2072)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠 Languages and Tools
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Remy2072&show_icons=true)  
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python )
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-![GitHub metrics](https://metrics.lecoq.io/Remy2072)  
+---
 
-![Profile views](https://gpvc.arturio.dev/Remy2072)  
+### 📌Pinned Repositories
+
+<img  alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="300" height="140" align="right" />
+
+<p align="left">
+<a href="https://github.com/Remy2072/Duurzaam-Huis">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=Remy2072&repo=Duurzaam-Huis&theme=nord" />
+</a>
+</p>
+
+---
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Remy2072&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Remy2072&layout=compact&langs_count=8&theme=nord"/>
+</a>
+</p>
+
+---
+
+### 😎 Visitors
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Remy2072.Remy2072)
+
+-----
+
+Credits: [Remy2072](https://github.com/Remy2072)
+
+Last Edited on: 07/3/2021
