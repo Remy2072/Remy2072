@@ -1,3 +1,4 @@
+## Hey there, I'm Remy Duivesteijn  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ---
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -44,7 +45,7 @@
 
 ### 📌Pinned Repositories
 
-<img  alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="550" height="400" align="right" />
+<img  alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width=550 height=400 align="right" />
 
 <p align="left">
 <a href="https://github.com/Remy2072/Duurzaam-Huis">
@@ -56,7 +57,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="top">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Remy2072&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Remy2072&layout=compact&langs_count=8&theme=nord"/>
