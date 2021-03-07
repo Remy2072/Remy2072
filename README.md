@@ -63,7 +63,7 @@
 
 ### 😎 Visitors
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Remy2072.Remy2072)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Remy.Remy)
 
 -----
 
