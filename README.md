@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/RemyDuivesteijn)
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?logo=Youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UC9lt58lfem-Bjr287JID__g)
 [![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jfcceg1kskkzucac21zh500kl)
-[![Website](https://img.shields.io/badge/-Website-2e343f?logo=google&logoColor=white&style=for-the-badge)](https://30528.hosts1.ma-cloud.nl/portfolio/index.html)
+[![Website](https://img.shields.io/badge/-Website-2e343f?logo=google&logoColor=white&style=for-the-badge)](https://remyduivesteijn.nl)
 
 ---
 
