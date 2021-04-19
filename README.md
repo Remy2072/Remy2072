@@ -48,6 +48,12 @@
 </a>
 </p>
 
+<p align="left">
+<a href="https://github.com/Remy2072/Xenterion">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=Remy2072&repo=Xenterion&theme=nord" />
+</a>
+</p>
+
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -69,4 +75,4 @@
 
 Credits: [Remy2072](https://github.com/Remy2072)
 
-Last Edited on: 12/3/2021
+Last Edited on: 19/4/2021
