@@ -17,10 +17,9 @@
 
 - 💡 I like to explore new technologies and develop software / websites.
 - 🎓 I'm currently studying software development at Mediacollege Amsterdam.
-- 🌱 I’m currently learning to learn.
+- 🌱 I’m currently learning how to become a good software developer
 - ✍️ In my free time, I like to play soccer, game with my friends and program.
 - 💬 Feel free to reach out to me about anything, Im happy to help out.
-- ✉️ You can shoot me an email at remyd03@icloud.com  I'll try to respond as soon as I can.
 
 ---
 
