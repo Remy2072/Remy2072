@@ -48,7 +48,7 @@
 </a>
 </p>
 
-<p align="left">
+<p align="right">
 <a href="https://github.com/Remy2072/Xenterion">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=Remy2072&repo=Xenterion&theme=nord" />
 </a>
