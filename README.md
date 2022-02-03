@@ -15,22 +15,19 @@
 
 ### 👨🏻‍💻 About Me
 
-- 💡 I like to explore new technologies and develop software / websites.
-- 🎓 I'm currently studying software development at Mediacollege Amsterdam.
-- 🌱 I’m currently learning how to become a good software developer.
+- 💡 I like to explore new technologies and develop websites.
+- 🎓 I'm currently studying media development at Mediacollege Amsterdam.
+- 🌱 I’m currently learning how to become a good media developer.
 - ✍️ In my free time, I like to play soccer, game with my friends and program.
 - 💬 Feel free to reach out to me about anything, Im happy to help out.
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Languages 
 
 ![HTML](https://img.shields.io/badge/-HTML-2e343f?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-2e343f?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2e343f?style=flat&logo=javascript)&nbsp;
----
-
-### 📌Pinned Repositories
 
 ---
 
