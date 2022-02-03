@@ -4,10 +4,8 @@
 
 ### 🏄 Follow me on
 
-[![Github](https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/Remy2072)
 [![instagram](https://img.shields.io/badge/-Instagram-C13584?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/remy2072/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/RemyDuivesteijn)
-[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?logo=Youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UC9lt58lfem-Bjr287JID__g)
 [![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jfcceg1kskkzucac21zh500kl)
 [![Website](https://img.shields.io/badge/-Website-2e343f?logo=google&logoColor=white&style=for-the-badge)](https://remyduivesteijn.nl)
 
