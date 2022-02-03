@@ -25,33 +25,12 @@
 
 ### 🛠 Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-2e343f?style=flat&logo=python )
 ![HTML](https://img.shields.io/badge/-HTML-2e343f?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-2e343f?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2e343f?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-2e343f?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-2e343f?style=flat&logo=github)&nbsp;\
-![Markdown](https://img.shields.io/badge/-Markdown-2e343f?style=flat&logo=markdown)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-2e343f?style=flat&logo=bootstrap&logoColor=563D7C)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2e343f?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-2e343f?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-2e343f?style=flat&logo=adobe-photoshop)&nbsp;
-
 ---
 
 ### 📌Pinned Repositories
-
-<p align="left">
-<a href="https://github.com/Remy2072/Duurzaam-Huis">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=Remy2072&repo=Duurzaam-Huis&theme=nord" />
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/Remy2072/Xenterion">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=Remy2072&repo=Xenterion&theme=nord" />
-</a>
-</p>
 
 ---
 
@@ -74,4 +53,4 @@
 
 Credits: [Remy2072](https://github.com/Remy2072)
 
-Last Edited on: 19/4/2021
+Last Edited on: 03/02/2022
