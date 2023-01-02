@@ -5,9 +5,8 @@
 ### 🏄 Follow me on
 
 [![instagram](https://img.shields.io/badge/-Instagram-C13584?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/remy2072/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/RemyDuivesteijn)
 [![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jfcceg1kskkzucac21zh500kl)
-[![Website](https://img.shields.io/badge/-Website-2e343f?logo=google&logoColor=white&style=for-the-badge)](https://remyduivesteijn.nl)
+[![Website](https://img.shields.io/badge/-Website-2e343f?logo=google&logoColor=white&style=for-the-badge)](https://remyduivesteijn.netlify.app/)
 
 ---
 
@@ -15,8 +14,8 @@
 
 - 💡 I like to explore new technologies and develop websites.
 - 🎓 I'm currently studying media development at Mediacollege Amsterdam.
-- 🌱 I’m currently learning how to become a good media developer.
-- ✍️ In my free time, I like to play soccer, game with my friends and program.
+- 🌱 I’m currently learning React.
+- ✍️ In my free time, I like to play games & football.
 - 💬 Feel free to reach out to me about anything, Im happy to help out.
 
 ---
@@ -48,4 +47,4 @@
 
 Credits: [Remy2072](https://github.com/Remy2072)
 
-Last Edited on: 03/02/2022
+Last Edited on: 02/01/2023
