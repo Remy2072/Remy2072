@@ -13,7 +13,7 @@
 ### 👨🏻‍💻 About Me
 
 - 💡 I like to explore new technologies and develop websites.
-- 🎓 I'm currently studying media development at Mediacollege Amsterdam.
+- 🎓 I'm currently studying frontend design & development at HvA.
 - 🌱 I’m currently learning React.
 - ✍️ In my free time, I like to play games & football.
 - 💬 Feel free to reach out to me about anything, Im happy to help out.
@@ -39,12 +39,4 @@
 
 ---
 
-### 😎 Visitors
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Remy.Remy)
-
------
-
-Credits: [Remy2072](https://github.com/Remy2072)
-
-Last Edited on: 02/01/2023
+Last Edited on: 21/10/2023
