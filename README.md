@@ -14,7 +14,7 @@
 
 - 💡 I like to explore new technologies and develop websites.
 - 🎓 I'm currently studying frontend design & development at HvA.
-- 🌱 I’m currently learning Node.
+- 🌱 I’m currently learning Svelte kit.
 - ✍️ In my free time, I like to play games, football and going to the gym.
 - 💬 Feel free to reach out to me about anything, Im happy to help out.
 
